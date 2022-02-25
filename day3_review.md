@@ -32,5 +32,5 @@
 
 
 - fork
-- git clone https://github.com/jjjiww/acrostic-poem.git
+- git clone `https://github.com/jjjiww/acrostic-poem.git`
 - 
