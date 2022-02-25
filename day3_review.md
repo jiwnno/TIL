@@ -29,3 +29,8 @@
 
 <img src="https://user-images.githubusercontent.com/100326070/155669062-be3d6bb4-2070-4e68-b4a6-5aad39a93767.png" width="200" height"300"/>
 
+
+
+- fork
+- git clone https://github.com/jjjiww/acrostic-poem.git
+- 
