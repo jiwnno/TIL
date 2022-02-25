@@ -18,3 +18,12 @@
 
 `<img src="이미지주소.png" width="100" height="100"/>`
 `이미지사이즈 수정`
+
+
+
+
+
+
+- 브랜치병합 merge
+- <img src="(https://user-images.githubusercontent.com/100326070/155669062-be3d6bb4-2070-4e68-b4a6-5aad39a93767.png" width="200" height"300"/>
+
