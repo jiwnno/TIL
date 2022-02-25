@@ -88,6 +88,7 @@
   - git init
     - 맨처음 1회, 절대 홈폴더에서 하지 않는다.
     - git init한 폴더의 하위 폴더에서 절대 git init하지 않는다.
+    - .git 생성
   - git add 
   - git commit -m "메시지"
   - git status : 파일 상태를 확인
@@ -101,7 +102,7 @@
     ```bash
     git config --global user.name "유저명"
     git config --global user.email "유저 이메일" # 깃허브에서 사용
-    git confir --global --list # 설정값 확인
+    git config --global --list # 설정값 확인
     ```
 
 ---
