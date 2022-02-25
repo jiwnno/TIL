@@ -11,7 +11,7 @@
  - git switch -c rides 브랜치 생성 후 이동
  
  
- - git merge rides (master) 브랜치병합
+ - (master) git merge rides 브랜치병합 rides를 master에 덮어씀
  - (rides) git merge master 는 안됨 이미 최신 상태라고 뜸
     + 병합하고 지워라 언젠가 또 수정해야한다면 그때 새로 브랜치 생성하시고
 <img src="https://user-images.githubusercontent.com/100326070/155662879-4f7ee783-a48a-4907-8909-a6d7704aa948.png" width="250" height="150"/>
