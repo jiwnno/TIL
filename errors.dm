@@ -8,3 +8,12 @@
 기본적으로 거부하는데, 이것을 허용해 주는 것이다.
 
 [출처] (https://gdtbgl93.tistory.com/63)
+
+
+- Untracked files:
+    + (use "git add <file>..." to include in what will be committed)
+
+이름에 띄어쓰기 들어가면 인식이 안되니 따옴표로 묶어주기
+
+
+ 
