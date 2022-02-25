@@ -94,6 +94,7 @@
   - git status : 파일 상태를 확인
   - git log : 커밋 내역 확인
     - --oneline : 한줄 출력
+    - -p : 커밋마다 변경사항확인
 
 - git 초기 설정
 
