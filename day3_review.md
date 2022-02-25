@@ -8,7 +8,7 @@
 - git config --global --code.editor "code --what"
     + 잘 기억 안나는데 이런 코드 추가하면 -m 번거롭게 안 쳐도 됨
  
- 
+ - git switch -c rides 브랜치 생성 후 이동
  
  
  - git merge rides (master) 브랜치병합
