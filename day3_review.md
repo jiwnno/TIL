@@ -1,17 +1,12 @@
-#### 프로필 사진추가
-
-- 마크다운 형식 : 사이즈 조절 불가
-    + `![](url)`
-
-- html 태그 방식 : 사이즈 조절 가능
-    + `<img src="~~.png"  width="200" height="200"/>`
-    + ~~에 들어갈 내용 : Issues -> New Issues -> 이미지 드래그앤 드랍했을때 깃허브에서 변환해주는 소괄호안의 주소
 
 
 - 커밋 순서 방향 알려주는듯 git log --oneline --all --graph
 
 - git diff <> <> 커밋id
     + 커밋 간 변경 사항 알려줌 초록색 빨간색
+
+- git config --global --code.editor "code --what"
+- 잘 기억 안나는데 이런 코드 추가하면 -m 번거롭게 안 쳐도 됨
  
  
  
