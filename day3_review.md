@@ -1,6 +1,6 @@
 
 
-- 커밋 순서 방향 알려주는듯 git log --oneline --all --graph
+- git log --oneline --all --graph 커밋 순서 알려줌
 
 - git diff <> <> 커밋id
     + 커밋 간 변경 사항 알려줌 초록색 빨간색
