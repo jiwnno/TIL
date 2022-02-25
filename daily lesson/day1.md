@@ -101,6 +101,7 @@
     ```bash
     git config --global user.name "유저명"
     git config --global user.email "유저 이메일" # 깃허브에서 사용
+    git confir --global --list # 설정값 확인
     ```
 
 ---
