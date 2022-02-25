@@ -6,3 +6,6 @@
 - html 태그 방식 : 사이즈 조절 가능
     + `<img src="~~.png"  width="200" height="200"/>`
     + ~~에 들어갈 내용 : Issues -> New Issues -> 이미지 드래그앤 드랍했을때 깃허브에서 변환해주는 소괄호안의 주소
+
+
+- 커밋 순서 방향 알려주는듯 git log --oneline --all --graph
